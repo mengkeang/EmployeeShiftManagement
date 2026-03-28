@@ -4,7 +4,7 @@ This project is a fully automated Employee Shift Management System built in Micr
 
 It simulates a real business scenario of a restaurant owner managing multiple staff roles, working hours, wage rules, and fairness in shift allocation.
 
-The solution transforms Excel from a simple spreadsheet into a decision-support system using advanced features such as formulas, Power Query, Power Pivot (DAX), and VBA.
+The solution transforms Excel from a simple spreadsheet into a decision-support system using advanced features such as formulas, Power Query, Power Pivot (DAX), and VBA. The solution also works with older version of Excel making it appealing to a wider Excel enthusiasts.
 
 # 🎯 Business Problem
 
@@ -18,7 +18,7 @@ Managing employee shifts manually often leads to:
 
 ❌ Lack of visibility into staffing coverage
 
-❌ Scheduling conflicts like “CLOPEN” (closing + opening shift)
+❌ Scheduling conflicts like “CLOPEN” (Late night followed by early morning)
 
 This project addresses all of the above with an automated and scalable solution.
 
@@ -58,13 +58,13 @@ This project addresses all of the above with an automated and scalable solution.
   * Data cleaning and transformation
   * Unpivoting cross-tab data into analytical format
 ## Data Modeling
-* Power Pivot (DAX)
-* Custom measures (e.g., premium shift tracking)
-* Aggregations and business logic
+* Power Pivot (DAX) as alternative solution to Dynamic Array Formula in newer Excel version
+* Custom measures (e.g., premium shift tracking) for effective visualization
+* Aggregations and business logics
 ## VBA
 * Data archiving (weekly → historical)
 * Dashboard behavior enhancements
-* Chart axis correction
+* Chart axis correction to ensure effective visualization
 
 # 📈 Key Features Demonstrated
 * End-to-end system design in Excel
@@ -83,7 +83,8 @@ This project demonstrates the ability to:
 * Translate real business problems into technical solutions
 * Design scalable and maintainable data models
 * Combine multiple Excel tools into one cohesive system
-* Deliver insights, not just data
+* Deliver insights, not just data with interactive dashboard
+* Customize to fit with other business models such as **Nurse Shift** and **Warehouse Shift Management**
 
 # 📌 Potential Enhancements
 * Integration with external data sources (SQL / APIs)
@@ -94,5 +95,5 @@ This project demonstrates the ability to:
 
 If you’re interested in discussing this project or opportunities:
 
-* LinkedIn: (Add your link)
+* LinkedIn: https://www.linkedin.com/in/vengm/
 * Email: khmer.keang@gmail.com
