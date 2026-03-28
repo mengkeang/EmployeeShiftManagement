@@ -66,6 +66,17 @@ This project addresses all of the above with an automated and scalable solution.
 * Dashboard behavior enhancements
 * Chart axis correction to ensure effective visualization
 
+# 📁 Project Structure
+* **Sheet Ref**: Reference tables (Roles, Shift Types)
+* **Sheet Staff**: Employee master data
+* **Sheet Schedule**: Weekly scheduling engine
+* **Sheet PublicHoliday**: Holiday reference
+* **Sheet Setting**: Configurable parameters (rates, inputs)
+* **Sheet tblWeeklyData**: Data transformation from Sheet Schedule using Power Query into big table for dashboard and visualization
+* **Sheet tblHistory**: Archived historical data (via VBA)
+* **Sheet Pivot**: Power Pivot Tables for all dashboard graphs and charts
+* **Sheet Dashboard**: Interactive reporting interface
+
 # 📈 Key Features Demonstrated
 * End-to-end system design in Excel
 * Data modeling and transformation
