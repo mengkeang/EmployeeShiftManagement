@@ -84,8 +84,36 @@ This project addresses all of the above with an automated and scalable solution.
 * Automation and user experience design
 * Analytical dashboard creation
 
-# 🎥 Demo / Walkthrough
-(Optional – Add your YouTube video link here)
+# 🎥 Demo
+## Highlighted Features
+
+![feature info 01](img/feature_info_01.png)
+
+## Public Holiday Indicator
+
+![feature public holiday indicator](img/feature_public_holiday_indicator.gif)
+
+## Over Contracted Hour Indicator
+
+![feature over contract hour](img/feature_over_contract_hour.gif)
+
+
+## Premium Shift Indicator
+
+![feature premium shift indicator](img/feature_premium_shift_indicator.gif)
+
+## CLOPEN Detection
+
+![feature clopen detection](img/feature_clopen_detection.gif)
+
+## No Staff Assignment on Critical Area
+
+![feature staff for critical function](img/feature_staff_for_critical_function.gif)
+
+## Dashboard
+
+![feature dashboard](img/feature_dashboard.gif)
+
 
 # 🧑‍💼 Why This Project Matters
 
